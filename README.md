@@ -58,14 +58,37 @@ Friday: 21th July:
       *Learnt about Trade secrets and how they are applied to members within an organisation  
 
 WEEK 5  
-Monday 24th July:  
-     *How to use linux commands and advantages of linux over windows
-     *How to change file permissions and ownership on linux operating system
+Monday 24th July:   
+     *How to use linux commands and advantages of linux over windows  
+     *How to change file permissions and ownership on linux operating system  
      *linux file managemet commands  
-Tuesday 18th July:   
-    *Installation of apache on virtual machine
+Tuesday 
+    *Installation of apache on virtual machine  
     *Running of a script on Virtual machine  
-Wednesday 19th July:  
-    *Installation of ansible on virtual machine
-    *Using ansible on virtual machine to automate and generate a file
+Wednesday  
+    *Installation of ansible on virtual machine  
+    *Using ansible on virtual machine to automate and generate a file  
     *Automation using bash  
+Thursday:  
+Working on the django project and learning from tryhackme  
+Friday:  
+Group Personal accidents  
+Github creation of branches  
+
+WEEK 6  
+Monday:  
+Introduction to monitoring tools  
+Tuesday:  
+Email etiquette and ticketing system  
+Wednesday:  
+Python program that shows whether a given subnet is part of a larger subnet  
+Thursday:  
+Configuration of eduroam on the go mifi  
+Friday:  
+Submission of Django program code  
+
+WEEK 7  
+Monday:
+Setting up forgot password feature for ip-monitoring tool  
+Tuesday:  
+Ip routing game.  
